@@ -4,3 +4,4 @@ tech201-gut-github
 ### Heading 3
 - Let's create our markdown file
 - This line is added on localhost
+![]
